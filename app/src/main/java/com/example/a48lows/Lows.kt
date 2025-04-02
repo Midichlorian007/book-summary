@@ -1,4 +1,4 @@
-package com.example.a48lows.ui.theme
+package com.example.a48lows
 
 class Lows {
     val lows = arrayOf(
